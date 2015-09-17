@@ -21,7 +21,7 @@ public class RandomNumberGenerator extends BaseOperator implements InputOperator
   @Override
   public void setup(OperatorContext context)
   {
-    throw new RuntimeException("Block");
+    //throw new RuntimeException("Block");
   }
 
   @Override
